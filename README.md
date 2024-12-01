@@ -1,3 +1,12 @@
+# midi-piano
+MIDIキーボードをブラウザで鳴らそうとした。  
+（[Zennスクラップ](https://zenn.dev/yiefhouse/scraps/a5d81e6c168b89)）    
+`/`: MIDIデバイスを認識できることを確認  
+`/note_check`: 押されている鍵盤の音名を確認  
+`/note_play`: 押されている鍵盤の音を再生。チャタリングのせいで、たまに止まらなくなる  
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
